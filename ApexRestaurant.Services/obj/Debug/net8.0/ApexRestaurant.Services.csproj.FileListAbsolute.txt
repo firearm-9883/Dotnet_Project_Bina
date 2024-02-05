@@ -28,3 +28,4 @@ C:\DotnetLab\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.dl
 C:\DotnetLab\ApexRestaurant.Services\obj\Debug\net8.0\refint\ApexRestaurant.Services.dll
 C:\DotnetLab\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.pdb
 C:\DotnetLab\ApexRestaurant.Services\obj\Debug\net8.0\ref\ApexRestaurant.Services.dll
+C:\DotnetLab\ApexRestaurant.Services\obj\Debug\net8.0\ApexRestaurant.Services.sourcelink.json
