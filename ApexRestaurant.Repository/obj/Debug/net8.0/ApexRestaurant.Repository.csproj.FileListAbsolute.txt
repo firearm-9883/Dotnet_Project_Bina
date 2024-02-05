@@ -21,3 +21,4 @@ C:\DotnetLab\ApexRestaurant.Repository\bin\Debug\net8.0\ApexRestaurant.Repositor
 C:\DotnetLab\ApexRestaurant.Repository\bin\Debug\net8.0\ApexRestaurant.Repository.dll
 C:\DotnetLab\ApexRestaurant.Repository\bin\Debug\net8.0\ApexRestaurant.Repository.pdb
 C:\DotnetLab\ApexRestaurant.Repository\obj\Debug\net8.0\ref\ApexRestaurant.Repository.dll
+C:\DotnetLab\ApexRestaurant.Repository\obj\Debug\net8.0\ApexRestaurant.Repository.sourcelink.json
